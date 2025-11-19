@@ -1,1 +1,1 @@
-print(250 + 75)
+INFO = "Code is a set of instructions a computer can execute."
